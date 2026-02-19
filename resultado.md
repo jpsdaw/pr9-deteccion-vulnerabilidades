@@ -61,3 +61,4 @@ Aplicamos la corrección con **npm audit fix --force** , corrige la mayoría, au
 **Pregunta:** Si quisieras detectar vulnerabilidades en el código propio del proyecto, ¿qué herramientas de las estudiadas utilizarías?  
 **Respuesta:** ESLint con reglas de seguridad (`eslint-plugin-security`) o SonarQubes.
 
+https://github.com/jpsdaw/pr9-deteccion-vulnerabilidades
